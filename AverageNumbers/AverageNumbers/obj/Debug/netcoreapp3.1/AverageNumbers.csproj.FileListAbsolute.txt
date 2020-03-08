@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\AverageNumbers\AverageNumbers\bin\Debug\netcoreapp3.1\AverageNumbers.exe
+C:\Users\User\source\repos\AverageNumbers\AverageNumbers\bin\Debug\netcoreapp3.1\AverageNumbers.deps.json
+C:\Users\User\source\repos\AverageNumbers\AverageNumbers\bin\Debug\netcoreapp3.1\AverageNumbers.runtimeconfig.json
+C:\Users\User\source\repos\AverageNumbers\AverageNumbers\bin\Debug\netcoreapp3.1\AverageNumbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\AverageNumbers\AverageNumbers\bin\Debug\netcoreapp3.1\AverageNumbers.dll
+C:\Users\User\source\repos\AverageNumbers\AverageNumbers\bin\Debug\netcoreapp3.1\AverageNumbers.pdb
+C:\Users\User\source\repos\AverageNumbers\AverageNumbers\obj\Debug\netcoreapp3.1\AverageNumbers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AverageNumbers\AverageNumbers\obj\Debug\netcoreapp3.1\AverageNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AverageNumbers\AverageNumbers\obj\Debug\netcoreapp3.1\AverageNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\AverageNumbers\AverageNumbers\obj\Debug\netcoreapp3.1\AverageNumbers.dll
+C:\Users\User\source\repos\AverageNumbers\AverageNumbers\obj\Debug\netcoreapp3.1\AverageNumbers.pdb
